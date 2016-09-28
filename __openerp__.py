@@ -42,6 +42,7 @@ It's use to improve the holidays requests by taking into account the bank holida
         'images/periods.png'],
     'data': [
         'views/day_off.xml',
+        'wizard/holiday_year_wizard_view.xml',
         'views/hr_holidays_view.xml',
         'security/ir.model.access.csv',
         'data/scheduler.xml'
